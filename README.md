@@ -5,7 +5,8 @@
 ## 启动
 
 ```
-npm run dev
+yarn start
+npm start
 ```
 
 ## 切换案例
