@@ -25,7 +25,8 @@ import ReactDOM from 'react-dom';
 // import App from './useLayoutEffect/useLayoutEffect2';
 // import App from './yourOwnHook/badExample';
 // import App from './yourOwnHook/goodExample';
-import App from './useDebugValue/useDebugValue';
+// import App from './useDebugValue/useDebugValue1';
+import App from './useDebugValue/useDebugValue2';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
